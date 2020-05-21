@@ -1,5 +1,5 @@
 function main() {
-    const baseUrl = "http://api.alquran.cloud/v1";
+    const baseUrl = "https://api.alquran.cloud/v1";
 
     const getSurahList = async () => {
         try {

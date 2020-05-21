@@ -1,5 +1,5 @@
 function surahDetail() {
-    const baseUrl = "http://api.alquran.cloud/v1";
+    const baseUrl = "https://api.alquran.cloud/v1";
 
     const getData = async () => {
         const surahNumber = getQueryVariable('number')
